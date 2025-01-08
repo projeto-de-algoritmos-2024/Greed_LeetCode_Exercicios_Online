@@ -1,44 +1,37 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios do Juiz Online LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 49<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0008291  |  Cristian Furtado |
+| 21/1041043 |  Juan Pablo |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Serão realizados 3 exercícios na plataforma no LeetCode que são:
+
+- <a href="https://leetcode.com/problems/car-pooling/description/">1094. Carona solidária (Médio)</a>
+- <a href="https://leetcode.com/problems/race-car/description/">0818. Carro de corrida (Difícil)</a>
+- <a href="https://leetcode.com/problems/strong-password-checker/description/">0420. Checagem de senha forte (Difícil)</a>
+- <a href="https://leetcode.com/problems/candy/description/">0135. Doces (Difícil)</a>
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python 3.10.*<br>
+
+Necessário ter instalado na máquina versão do Python 3.10.* para que sejam executados os exercícios e uma conta no site LeetCode.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+## Links dos vídeos com explicação
 
 
 
