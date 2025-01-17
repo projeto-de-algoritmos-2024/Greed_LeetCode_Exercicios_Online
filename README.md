@@ -18,7 +18,7 @@ Serão realizados 3 exercícios na plataforma no LeetCode que são:
 - <a href="https://leetcode.com/problems/candy/description/">0135. Doces (Difícil)</a>
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Aceite do exercício 1094](./imgs/1094_accepted.png "Aceite do exercício 1094")
 
 ## Instalação 
 **Linguagem**: Python 3.10.*<br>
@@ -33,6 +33,7 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 ## Links dos vídeos com explicação
 
+[Exercício 1094](https://drive.google.com/file/d/1QMguM_H9QBFOXIbuD03TLwHS5O-KQG6U/view?usp=sharing)
 
 
 
