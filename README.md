@@ -13,14 +13,15 @@
 Serão realizados 3 exercícios na plataforma no LeetCode que são:
 
 - <a href="https://leetcode.com/problems/car-pooling/description/">1094. Carona solidária (Médio)</a>
-- <a href="https://leetcode.com/problems/race-car/description/">0818. Carro de corrida (Difícil)</a>
-- <a href="https://leetcode.com/problems/strong-password-checker/description/">0420. Checagem de senha forte (Difícil)</a>
+- <a href="https://leetcode.com/problems/wildcard-matching/description/?envType=problem-list-v2&envId=greedy">044. Carta coringa (Difícil)</a>
 - <a href="https://leetcode.com/problems/candy/description/">0135. Doces (Difícil)</a>
 
 ## Screenshots
 ![Aceite do exercício 1094](./imgs/1094_accepted.png "Aceite do exercício 1094")
 
 ![Aceite do exercício 0135](./imgs/0135_accepted.png "Aceite do exercício 0135")
+
+![Aceite o exercício 044](./imgs/044_accepted.jpg "Aceite do exercício 044")
 
 ## Instalação 
 **Linguagem**: Python 3.10.*<br>
@@ -38,5 +39,7 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 [Exercício 1094](https://drive.google.com/file/d/1QMguM_H9QBFOXIbuD03TLwHS5O-KQG6U/view?usp=sharing)
 
 [Exercício 0135](https://drive.google.com/file/d/1dD1piRYLwFNwl8_bWaOCHaSmSSncHESm/view?usp=sharing)
+
+[Exercício 044](https://drive.google.com/file/d/1RPxsWLYfB1e9rRhMEjwVni3BMnHNymnK/view?usp=sharing)
 
 
