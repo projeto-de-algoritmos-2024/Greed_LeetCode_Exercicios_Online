@@ -20,6 +20,8 @@ Serão realizados 3 exercícios na plataforma no LeetCode que são:
 ## Screenshots
 ![Aceite do exercício 1094](./imgs/1094_accepted.png "Aceite do exercício 1094")
 
+![Aceite do exercício 0135](./imgs/0135_accepted.png "Aceite do exercício 0135")
+
 ## Instalação 
 **Linguagem**: Python 3.10.*<br>
 
@@ -35,5 +37,6 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 [Exercício 1094](https://drive.google.com/file/d/1QMguM_H9QBFOXIbuD03TLwHS5O-KQG6U/view?usp=sharing)
 
+[Exercício 0135](https://drive.google.com/file/d/1dD1piRYLwFNwl8_bWaOCHaSmSSncHESm/view?usp=sharing)
 
 
